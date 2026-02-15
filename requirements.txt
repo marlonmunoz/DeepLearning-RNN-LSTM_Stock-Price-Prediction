@@ -1,0 +1,10 @@
+# Requirement
+tensorflow
+numpy
+pandas
+matplotlib
+keras
+seaborn
+scikit-learn
+imbalanced-learn
+yfinance
